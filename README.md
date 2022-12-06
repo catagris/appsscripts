@@ -1,6 +1,6 @@
 # appsscripts
 Collection of Google Apps Scripts
-
+[Google](google.com)
 [Random Number Generator](Slides/Random Number.js)
 <details><summary>Sheets</summary>
 <p>
