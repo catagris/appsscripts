@@ -25,7 +25,7 @@ Collection of Google Apps Scripts
 </details>
 <details><summary>Slides</summary>
 <p>
-[Random Number Generator](Slides/Random Number.js)
+[Random Number Generator](./Slides/Random Number.js)
 
 </p>
 </details>
