@@ -1,6 +1,6 @@
 # appsscripts
 Collection of Google Apps Scripts
-[Random Number Generator](Random Number.js)
+[Random Number Generator](Random%20Number.js)
 <details><summary>Sheets</summary>
 <p>
 
