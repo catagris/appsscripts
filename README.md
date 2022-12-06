@@ -1,6 +1,7 @@
 # appsscripts
 Collection of Google Apps Scripts
 
+[Random Number Generator](Random Number.js)
 <details><summary>Sheets</summary>
 <p>
 
@@ -21,11 +22,12 @@ Collection of Google Apps Scripts
    puts "Hello World"
 ```
 
+
 </p>
 </details>
 <details><summary>Slides</summary>
 <p>
-[Random Number Generator](./Slides/Random Number.js)
+[Random Number Generator](Random Number.js)
 
 </p>
 </details>
