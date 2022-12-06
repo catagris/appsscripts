@@ -1,7 +1,7 @@
-#**Collection of Google Apps Scripts**
-##Sheets
-##Docs
+# **Collection of Google Apps Scripts**
+## Sheets
+## Docs
 
 
-##Slides
+## Slides
 [Random Number Generator](Random%20Number.js)
